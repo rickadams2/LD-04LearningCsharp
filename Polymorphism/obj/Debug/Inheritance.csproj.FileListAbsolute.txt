@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\Inheritance\obj\Debug\Inheritance.pdb

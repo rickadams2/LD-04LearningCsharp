@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\LanguangeElementenCS\obj\Debug\LanguangeElementenCS.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\LanguangeElementenCS\obj\Debug\LanguangeElementenCS.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\LanguangeElementenCS\bin\Debug\LanguangeElementenCS.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\LanguangeElementenCS\bin\Debug\LanguangeElementenCS.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\LanguangeElementenCS\bin\Debug\LanguangeElementenCS.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\LanguangeElementenCS\obj\Debug\LanguangeElementenCS.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\LanguangeElementenCS\obj\Debug\LanguangeElementenCS.pdb

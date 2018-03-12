@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\ExceptionFlow\bin\Debug\ExceptionFlow.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\ExceptionFlow\bin\Debug\ExceptionFlow.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\ExceptionFlow\bin\Debug\ExceptionFlow.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\ExceptionFlow\obj\Debug\ExceptionFlow.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\ExceptionFlow\obj\Debug\ExceptionFlow.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\ExceptionFlow\obj\Debug\ExceptionFlow.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\ExceptionFlow\obj\Debug\ExceptionFlow.pdb

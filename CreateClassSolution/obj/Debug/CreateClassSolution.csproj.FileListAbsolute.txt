@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\CreateClassSolution\bin\Debug\CreateClassSolution.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\CreateClassSolution\bin\Debug\CreateClassSolution.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\CreateClassSolution\bin\Debug\CreateClassSolution.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\CreateClassSolution\obj\Debug\CreateClassSolution.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\CreateClassSolution\obj\Debug\CreateClassSolution.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\CreateClassSolution\obj\Debug\CreateClassSolution.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\CreateClassSolution\obj\Debug\CreateClassSolution.pdb

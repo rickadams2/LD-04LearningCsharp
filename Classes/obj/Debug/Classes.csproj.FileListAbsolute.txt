@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\Classes\bin\Debug\Classes.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\Classes\bin\Debug\Classes.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\Classes\bin\Debug\Classes.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\Classes\obj\Debug\Classes.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\Classes\obj\Debug\Classes.pdb

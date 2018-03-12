@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\ExcelptionSolution\bin\Debug\ExcelptionSolution.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\ExcelptionSolution\bin\Debug\ExcelptionSolution.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\ExcelptionSolution\bin\Debug\ExcelptionSolution.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\ExcelptionSolution\obj\Debug\ExcelptionSolution.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\ExcelptionSolution\obj\Debug\ExcelptionSolution.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\ExcelptionSolution\obj\Debug\ExcelptionSolution.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\ExcelptionSolution\obj\Debug\ExcelptionSolution.pdb

@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\ForloopChallange\bin\Debug\ForloopChallange.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\ForloopChallange\bin\Debug\ForloopChallange.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\ForloopChallange\bin\Debug\ForloopChallange.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\ForloopChallange\obj\Debug\ForloopChallange.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\ForloopChallange\obj\Debug\ForloopChallange.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\ForloopChallange\obj\Debug\ForloopChallange.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\ForloopChallange\obj\Debug\ForloopChallange.pdb

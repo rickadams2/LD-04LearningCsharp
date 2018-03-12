@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\FunctionSolution\bin\Debug\FunctionSolution.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\FunctionSolution\bin\Debug\FunctionSolution.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\FunctionSolution\bin\Debug\FunctionSolution.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\FunctionSolution\obj\Debug\FunctionSolution.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\FunctionSolution\obj\Debug\FunctionSolution.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\FunctionSolution\obj\Debug\FunctionSolution.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\FunctionSolution\obj\Debug\FunctionSolution.pdb

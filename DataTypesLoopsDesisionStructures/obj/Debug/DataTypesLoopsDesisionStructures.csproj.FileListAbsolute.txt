@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\DataTypesLoopsDesisionStructures\obj\Debug\DataTypesLoopsDesisionStructures.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\DataTypesLoopsDesisionStructures\obj\Debug\DataTypesLoopsDesisionStructures.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\DataTypesLoopsDesisionStructures\bin\Debug\DataTypesLoopsDesisionStructures.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\DataTypesLoopsDesisionStructures\bin\Debug\DataTypesLoopsDesisionStructures.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\DataTypesLoopsDesisionStructures\bin\Debug\DataTypesLoopsDesisionStructures.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\DataTypesLoopsDesisionStructures\obj\Debug\DataTypesLoopsDesisionStructures.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\DataTypesLoopsDesisionStructures\obj\Debug\DataTypesLoopsDesisionStructures.pdb

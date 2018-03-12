@@ -1,0 +1,7 @@
+C:\Users\thead\source\repos\LD-04LearningCharp\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\thead\source\repos\LD-04LearningCharp\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\thead\source\repos\LD-04LearningCharp\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\thead\source\repos\LD-04LearningCharp\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\thead\source\repos\LD-04LearningCharp\Encapsulation\obj\Debug\Encapsulation.pdb
